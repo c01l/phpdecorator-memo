@@ -1,7 +1,7 @@
 {
     "name": "c01l/phpdecorator-memo",
     "version": "1.0.0",
-    "description": "The phpdecorator-memo library can be used to wrap functions to cache the results for multiple invocations.",
+    "description": "Memoization for PHP methods using a Python style Decorator pattern.",
     "type": "library",
     "license": "MIT",
     "autoload": {
